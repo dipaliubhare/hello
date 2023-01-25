@@ -1,0 +1,109 @@
+his set of HTML Multiple Choice Questions & Answers (MCQs) focuses on “Web Performance Optimization – 1”.
+
+1. Major portion of web page contributes _________________
+a) image
+b) text
+c) video
+d) audio
+View Answer
+
+2. For image compression which tool is helpful?
+a) WordPress cache enable a plugin
+b) Optimus wordpress plugin
+c) Glup-uglify
+d) Speed test tool
+View Answer
+
+3. HTTP request is between _______________
+a) client and host
+b) client and server
+c) server and host
+d) user and server
+View Answer
+
+Sanfoundry Certification Contest of the Month is Live. 100+ Subjects. Participate Now!
+advertisement
+
+4. What does not come under minification?
+a) removal of comments
+b) removal of new line characters
+c) removal of white space characters
+d) removal of multimedia elements
+View Answer
+
+5. Which of the following is not render blocking resource?
+a) CSS
+b) HTML
+c) JavaScript
+d) Jquery
+View Answer
+
+Check this: Information Science MCQs | Computer Science MCQs
+6. For best speed position of JavaScript code should be at ______________
+a) top of the code
+b) bottom of the code
+c) middle of the code
+d) anywhere in the code
+View Answer
+
+7. What is the work of TTFB?
+a) measures the responsiveness of web server
+b) increases the load speed of web page
+c) compresses the image
+d) remove unnecessary characters
+View Answer
+
+8. 404 HTTP error is generated due to ____________
+a) missing JavaScript file
+b) any missing file
+c) slow loading of the web page
+d) on removing the newline character
+View Answer
+
+9. What is the work of Gzip compression?
+a) compresses an image
+b) compresses web pages only
+c) compresses JavaScript and CSS code only
+d) compresses web pages, JavaScript and CSS
+View Answer
+
+10. What is hotlink protection?
+a) stopping other sites from displaying images
+b) stopping other sites from displaying videos
+c) stopping access of source code
+d) compresses an image
+View Answer
+
+11. For best speed position of CSS code should be at __________
+a) at the bottom of the code
+b) at the middle of the code
+c) at the top of the code
+d) anywhere in the code
+View Answer
+
+12. What is not the work of database optimization?
+a) cleaning out old tables
+b) creating indexes
+c) optimize datatype
+d) delete database
+View Answer
+
+13. Which of the following is the Waterfall tool?
+a) WebPageTest.org
+b) dotcom-monitor
+c) Pingdom Speed Test
+d) GTmetrix
+View Answer
+
+14. Which of the following is not the layer of the OSI Model?
+a) Transport Layer
+b) Network Layer
+c) Session Layer
+d) Atomic Layer
+View Answer
+
+15. Which browser gives maximum parallel connections per host?
+a) Opera 10
+b) Chrome 1 and 2
+c) Safari 3 and 4
+d) Firefox 3
