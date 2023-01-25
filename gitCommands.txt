@@ -1,0 +1,9 @@
+>git pull origin --allow-unrelated-histories
+
+
+in main branch create 
+-->git branch developer
+then push files
+the go back to main branch then
+-->git switch developer
+then come to then merge
